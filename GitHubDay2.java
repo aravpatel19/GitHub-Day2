@@ -1,0 +1,2 @@
+public class GitHubDay2{
+	
